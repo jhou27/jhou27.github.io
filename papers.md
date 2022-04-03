@@ -4,7 +4,7 @@ title: "Papers"
 ---
 **Journal articles**:
 
-Ou, J., & Yu, A. C. (2021). Neural correlates of individual differences in speech categorisation: evidence from subcortical, cortical, and behavioural measures. Language, Cognition and Neuroscience, 1-16. <a href="https://www.tandfonline.com/doi/abs/10.1080/23273798.2021.1980594">[Link]</a>
+<strong>Ou, J.,</strong> & Yu, A. C. (2021). Neural correlates of individual differences in speech categorisation: evidence from subcortical, cortical, and behavioural measures. <i>Language, Cognition and Neuroscience,</i> 1-16. <a href="https://www.tandfonline.com/doi/abs/10.1080/23273798.2021.1980594">[Link]</a>
 
 Feng, G., Ou, J., Gan, Z., Jia, X., Meng, D., Wang, S., & Wong, P. C. (2021). Neural fingerprints underlying individual language learning profiles. Journal of Neuroscience, 41(35), 7372-7387. <a href="https://www.jneurosci.org/content/jneuro/41/35/7372.full.pdf">[Link]</a>
 
