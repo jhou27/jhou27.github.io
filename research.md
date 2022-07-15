@@ -25,6 +25,7 @@ Auditory neuroscience has provided strong evidence that neural oscillations sync
 
 More information:<br>
 <i>Ou, J., & Law, S. P. (2018). Induced gamma oscillations index individual differences in speech sound perception and production. Neuropsychologia, 121, 28-36.</i><a href="https://doi.org/10.1016/j.neuropsychologia.2018.10.028">[Link]</a> 
+
 <i>Ou, J., & Law, S. P. (2019). Top-down and bottom-up mechanisms as reflected by beta and gamma oscillations in speech perception: An individual-difference approach. Brain and Language, 199, 104700.</i><a href="https://doi.org/10.1016/j.bandl.2019.104700">[Link]</a><br><br>
 
 
