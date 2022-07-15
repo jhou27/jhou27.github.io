@@ -3,7 +3,7 @@ layout: research
 
 ---
 
-<p style="font-size:20px"><strong>Neural mechanisms of speech categorization</strong></p>
+<p style="font-size:20px"><strong>Neural mechanisms underlying speech categorization</strong></p>
 <p align="justify">
 Successful perception of speech requires that the human brain to first encode the acoustic signal, and subsequently transform this continuous information into discrete, well-formed categories, a process known as categorical perception. Skilled categorization is particularly important in the context of spoken and written language as evident by its integral role in reading acquisition and auditory-based learning disorders (e.g., dyslexia, specific language impairment). Processing of speech is heavily dependent on the neural structures of the auditory pathway from sensory receptors of hearing in the peripheral nervous system to subcortical (brainstem) and cortical nuclei of the central nervous system. I have employed a system-level approach to comprehensively measure neurophysiological activities from multiple levels of the auditory system (subcortical and cortical) to address two central questions <u>(1) when and how the auditory system transforms continuous acoustic signals into discrete categories? (2) whether and how individual differences of the neural mechanisms predict behavioral categorization?</u> </p>
 
@@ -19,7 +19,7 @@ More information:<br>
 <i>Ou, J., Yu, A. C. L, & Xiang, M. (2021). Individual differences in categorization gradience as predicted by online processing of phonetic cues during spoken word recognition: Evidence from eye movements. Cognitive Science, 45(3), e12948.</i><a href="https://www.jneurosci.org/content/jneuro/41/35/7372.full.pdf">[Link]</a><br><br>
 
 
-<p style="font-size:20px"><strong>Neural oscillations in speech perception</strong></p>
+<p style="font-size:20px"><strong>Neural oscillation correlates of speech perception</strong></p>
 <p align="justify">
 Auditory neuroscience has provided strong evidence that neural oscillations synchronize to the rhythm of speech stimuli, and oscillations at different frequencies have been linked to processing of different language structures. Specific to speech processing, it has been theorized that slow neural oscillations (i.e. theta band, 4–8 Hz) temporally align to and encode the syllable structures, which are characterized by statistical regularities at a scale of 100–200 ms (i.e. similar to a theta cycle) in speech. On the other hand, neural oscillations at higher frequencies (i.e. low-gamma, 25–35Hz) are thought to encode the phonetic structures of speech. I applied time-frequency analysis to electrophysiological responses to a lexical tone contrast from two groups of healthy tone-language speakers who differ in their tone perception and production ability, in order to ascertain <u>(1) whether individual differences in tone perception are related to neural oscillations; (2) is there a link between perception and production to the extent that neural oscillationatory differences may predict production variations among individuals.</u></p>
 
