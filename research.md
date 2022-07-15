@@ -2,7 +2,8 @@
 layout: research
 
 ---
-Our understanding of the how language work is predominantly based on group-level data. Theories derived from group-based results usually postulates an idealized scenario, and assumes mostly invariant human cognitive capacities and downplayed individual differences. My research program seeks to characterize the range of individual variations in speech processing and demonstrate how individual differences at different level of granularity may drive our understanding of language. 
+<p align="justify">
+Our understanding of the how language work is predominantly based on group-level data. Theories derived from group-based results usually postulates an idealized scenario, and assumes mostly invariant human cognitive capacities and downplayed individual differences. My research program seeks to characterize the range of individual variations in speech processing and demonstrate how individual differences at different level of granularity may drive our understanding of language.</p> 
 
 
 <p style="font-size:20px"><strong>Neural mechanisms underlying speech categorization</strong></p>
