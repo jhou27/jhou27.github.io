@@ -29,7 +29,7 @@ More information:<br>
 <i>Ou, J., & Law, S. P. (2019). Top-down and bottom-up mechanisms as reflected by beta and gamma oscillations in speech perception: An individual-difference approach. Brain and Language, 199, 104700.</i><a href="https://doi.org/10.1016/j.bandl.2019.104700">[Link]</a><br><br>
 
 
-<p style="font-size:20px"><strong>Speech erception and production variations in sound change</strong></p>
+<p style="font-size:20px"><strong>Speech perception and production variations in sound change</strong></p>
 <p align="justify">
 Sound change takes place in the mind of individual language user. By studying variations of individual language system in terms of perception and production, we can begin to elucidate the neurocognitive factors that condition actuation of change in some speakers but not others. The subtle speech-processing differences bestowed by heterogeneity in neurocognitive capacity may result in bias for certain linguistic variants, which may become seeds for language change. Sociocultural transmission may then act to amplify these subtle cognitive biases leading to widespread change in the community. I pursued this question by examining the range of individual tonal structures possible among Hong Kong Cantonese speakers – <u>whether and how tonal distinctions are maintained in perception and production, moreover linking the cognitive capacity of individuals and how they process language to their idiosyncratic structures.</u></p>
 
