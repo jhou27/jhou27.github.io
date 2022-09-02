@@ -4,6 +4,10 @@ title: "Papers"
 ---
 **Journal articles**:
 
+Xiang, M., & <strong>Ou, Jinghua.</strong> (In prep). Revisiting the form-based account of referential contrast effects.
+
+Li, J., <strong>Ou, Jinghua,</strong> & Xiang, M. (In prep). When contextual expectations are violated: ERP evidence.
+
 <strong>Ou, Jinghua,</strong> & Yu, A. C. (2021). Neural correlates of individual differences in speech categorisation: evidence from subcortical, cortical, and behavioural measures. <i>Language, Cognition and Neuroscience,</i> 37(3), 269-284. <a href="https://www.tandfonline.com/doi/abs/10.1080/23273798.2021.1980594">[Link]</a>
 
 Feng, G., <strong>Ou, Jinghua,</strong> Gan, Z., Jia, X., Meng, D., Wang, S., & Wong, P. C. (2021). Neural fingerprints underlying individual language learning profiles. <i>Journal of Neuroscience,</i> 41(35), 7372-7387. <a href="https://www.jneurosci.org/content/jneuro/41/35/7372.full.pdf">[Link]</a>
