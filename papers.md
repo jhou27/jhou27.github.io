@@ -8,7 +8,7 @@ Xiang, M., & <strong>Ou, Jinghua.</strong> (In prep). Revisiting the form-based 
 
 Li, J., <strong>Ou, Jinghua,</strong> & Xiang, M. (In prep). When contextual expectations are violated: ERP evidence.
 
-<strong>Ou, Jinghua & Yu, Alan C. L. (in prep). Specificity in neural encoding shapes cue weighting in vowel categorization: evidence from frequency-following responses.
+<strong>Ou, Jinghua</strong> & Yu, Alan C. L. (in prep). Specificity in neural encoding shapes cue weighting in vowel categorization: evidence from frequency-following responses.
 
 <strong>Ou, Jinghua,</strong> & Yu, A. C. (2021). Neural correlates of individual differences in speech categorisation: evidence from subcortical, cortical, and behavioural measures. <i>Language, Cognition and Neuroscience,</i> 37(3), 269-284. <a href="https://www.tandfonline.com/doi/abs/10.1080/23273798.2021.1980594">[Link]</a>
 
