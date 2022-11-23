@@ -3,4 +3,4 @@ layout: mycv
 title: "My CV"
 ---
 
-Please click here to visit my <a href="https://drive.google.com/file/d/1GjHfyvOYk6cU9Y0oDawb_P6AAp2h5uQ2/view?usp=sharing">CV</a>!
+Please click here to visit my <a href="https://drive.google.com/file/d/1C59WFZE91TI5cfWNJnxRCQR_f3-3L2Au/view?usp=share_link">CV</a>!
