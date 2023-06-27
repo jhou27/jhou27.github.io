@@ -6,9 +6,9 @@ title: "Papers"
 
 Xiang, M., & <strong>Ou, Jinghua.</strong> (In prep). Revisiting the form-based account of referential contrast effects.
 
-Li, J., <strong>Ou, Jinghua,</strong> & Xiang, M. (submitted). When contextual expectations are violated: ERP evidence.
+Li, J., <strong>Ou, Jinghua,</strong> & Xiang, M. (under revision). When contextual expectations are violated: ERP evidence.
 
-<strong>Ou, Jinghua,</strong> Xiang, M., & Yu, Alan C. L. (under review). Specificity in neural encoding shapes cue weighting in vowel categorization: evidence from frequency-following responses.
+<strong>Ou, Jinghua,</strong> Xiang, M., & Yu, Alan C. L. (2023). Individual variability in subcortical neural encoding shapes phonetic cue weighting. <i>Scientific Reports,</i> 13(1):9991. <a href="https://www.nature.com/articles/s41598-023-37212-y">[Link]</a>
 
 <strong>Ou, Jinghua,</strong> & Yu, A. C. (2021). Neural correlates of individual differences in speech categorisation: evidence from subcortical, cortical, and behavioural measures. <i>Language, Cognition and Neuroscience,</i> 37(3), 269-284. <a href="https://www.tandfonline.com/doi/abs/10.1080/23273798.2021.1980594">[Link]</a>
 
