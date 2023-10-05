@@ -6,7 +6,7 @@ title: "Papers"
 
 Xiang, M., & <strong>Ou, Jinghua.</strong> (In prep). Revisiting the form-based account of referential contrast effects.
 
-Li, J., <strong>Ou, Jinghua,</strong> & Xiang, M. (under revision). When contextual expectations are violated: ERP evidence.
+Li, J., <strong>Ou, Jinghua,</strong> & Xiang, M. (2023). Context-specific effects of violated expectations: ERP evidence, <i>Cognition,</i> 241:105628. <a href="https://www.sciencedirect.com/science/article/pii/S0010027723002627?via%3Dihub">[Link]</a>
 
 <strong>Ou, Jinghua,</strong> Xiang, M., & Yu, Alan C. L. (2023). Individual variability in subcortical neural encoding shapes phonetic cue weighting. <i>Scientific Reports,</i> 13(1):9991. <a href="https://www.nature.com/articles/s41598-023-37212-y">[Link]</a>
 
